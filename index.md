@@ -6,3 +6,5 @@
 var Myv = "Hello, World";
 
 ```
+- [ ] Learn DSA
+- [ ] Hone a skill
